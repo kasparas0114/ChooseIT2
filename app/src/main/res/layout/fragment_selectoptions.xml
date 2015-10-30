@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kasparas.chooseit.BlankFragment"
+    android:rowCount="14"
+    android:columnCount="8">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="382dp"
+        android:layout_height="54dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/SelectOptions"
+        android:id="@+id/textView2"
+        android:layout_column="7"
+        android:layout_row="12"
+        android:textAlignment="center" />
+
+</RelativeLayout>
